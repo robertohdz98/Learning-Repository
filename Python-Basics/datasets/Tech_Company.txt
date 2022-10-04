@@ -1,0 +1,5 @@
+Company,Headquarters,CEO
+HP,California,Weisler
+Amazon,New York,Bezos
+IBM,California,Rometty
+Intel,Washington,Swan
